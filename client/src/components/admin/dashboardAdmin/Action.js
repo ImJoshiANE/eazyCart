@@ -2,7 +2,7 @@ import {
   DashboardData,
   postUploadImage,
   getSliderImages,
-  postDeleteImage,
+  postDeleteImage
 } from "./FetchApi";
 import { getAllOrder } from "../orders/FetchApi.js";
 

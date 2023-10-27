@@ -6,6 +6,6 @@ try {
     useCreateIndex: true,
   });
   console.log("Database Connected Successfully");
-} catch (err) {
+} catch (err) { 
   console.log("Database Not Connected");
 }
